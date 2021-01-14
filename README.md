@@ -6,6 +6,8 @@ Requirements
 
 * Node.js version > 10.?
 
+Install dependencies:
+
     npm install
 
 How to build
